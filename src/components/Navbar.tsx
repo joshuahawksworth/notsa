@@ -7,11 +7,6 @@ export const Navbar = () => {
     <nav className="bg-black text-white py-4 px-4 md:px-6">
       <div className="max-w-6xl mx-auto flex justify-between items-center">
         <div className="flex items-center gap-2">
-          <img 
-            src={logo} 
-            alt="NOTSA Logo" 
-            className="h-14 md:h-15 w-auto"
-          />
             <h1 className="font-['Prata'] text-2xl md:text-3xl lg:text-5xl tracking-wider lowercase font-bold">
                 notsa
             </h1>
